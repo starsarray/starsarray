@@ -1,7 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到我的仓库)](https://git.io/typing-svg)
-<p>
-<img src="https://img.shields.io/static/v1?label=Major&message=Urban planning&color=purple"/>
-<img src="https://img.shields.io/static/v1?label=Program&message=Python Stata R&color=yellow"/>
-</p>
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HirezmingD&theme=dark&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=1000&color=00F1F7&center=true&vCenter=true&width=635&height=150&lines=Are+you+OK%EF%BC%9F)](https://git.io/typing-svg)
